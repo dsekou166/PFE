@@ -105,7 +105,7 @@
                 </div>
              </div>
              <div class="col-md-5 offset-md-1" style="box-shadow: 1px 1px 4px 0 rgba(0,0,0,.8); padding:20px">
-              <img src="image/img_vote.png" class="img-fluid">
+              <img src="image/evoting.png" class="img-fluid">
             </div>
          </div>
      </div>

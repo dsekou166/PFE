@@ -10,10 +10,9 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
     <link rel="stylesheet" href="css/css1.css">
     <link rel="stylesheet" href="css/style.css">
-     
     
     <title>E-vote Intec-Sup</title>
-   </head>
+  </head>
 <body>
   <div1>
 <header>
@@ -80,7 +79,7 @@
       <div class="row mb-3">
         <div class="col-md-2"></div>
         <div class="col-md-4">
-			    <p><img text-align="right" src="image/directeur.jpg" alt="Directeur des études intec sup baco djicoroni" width="400" height="300" /></p>
+			<p><img text-align="right" src="image/directeur.jpg" alt="Directeur des études intec sup baco djicoroni" width="400" height="300" /></p>
           <h5  style="text-align: center;line-height:1.5;"><strong>Le Directeur des études INTEC SUP baco djicoroni</strong><br />
           <strong>M. Salif COULIBALY</strong></h5>
         </div>
@@ -108,7 +107,3 @@
 <script> src="assets/bootstrap-5.2.0/js/bootstrap.js"</script>
 <script> src="assets/bootstrap-5.2.0/js/jquery.js"</script>
 </html>
-
-
-          
-       

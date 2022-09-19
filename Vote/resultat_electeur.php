@@ -38,7 +38,6 @@
         <li class="nav-item">
           <a class="btn btn-outline-primary" href="?page=les_resultat" role="button"style="margin: 5px; padding:10px;">RESULTATS</a>
         </li>
-       
         <li class="nav-item">
         <li><a class="btn btn-outline-danger" href="?page=connexion&deconnexion" role="button"style="margin: 5px; padding:10px;">DECONNEXION</a></li>
         </li>

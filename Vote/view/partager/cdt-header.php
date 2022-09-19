@@ -26,7 +26,7 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon bg-dark"></span>
     </button>
-    <div class="collapse navbar-collapse justify-content-end" id="navbarScroll" >
+    <div class="colapse navbar-collapse justify-content-end" id="navbarScroll" >
       <ul class="navbar-nav  my-2 my-lg-0 " style="--bs-scroll-height: 100px;">
           <a class="btn btn-outline-primary" href="contact/index.php" role="button"style="margin: 5px; padding:10px;">VOS SUGGESTION</a></li>
           <a class="btn btn-outline-primary" href="resultat_electeur.php" role="button"style="margin: 5px; padding:10px;">RESULTATS</a></li>
